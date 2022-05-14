@@ -6,7 +6,7 @@ const Footer = () => {
     console.log(year)
     return (
         <div>
-            <p>&copy; copyright <a href="https://github.com/rashidul191"> Rashidul </a>{year}</p>
+            <p>&copy; copyright <a target="_blank" href="https://github.com/rashidul191"> Rashidul </a>{year}</p>
         </div>
     );
 };
